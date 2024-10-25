@@ -5,4 +5,8 @@ A set of themes for [Ghostty](https://mitchellh.com/ghostty) based on the [Vites
 Download the files and place them in:
 
 - macOS
-  - `/Applications/Ghostty.app/Resources/Content/ghostty/themes/`
+  - `~/.config/ghostty/themes`
+ 
+---
+
+I also wrote a brief blog post on how to use these themes + how to create custom themes for Ghostty, [give it a read here](https://matthamlin.me/blog/2024/october/building-a-custom-ghostty-theme)!
